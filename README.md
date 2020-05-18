@@ -1,4 +1,4 @@
-# Find Lyrics App
+# Text reader app.
 
 Simple text reader app.
 ![](img/speech.gif)
